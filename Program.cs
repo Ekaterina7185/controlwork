@@ -1,4 +1,4 @@
-Console.Clear();
+﻿Console.Clear();
 Console.Write("Введите элементы массива через пробел: ");
 string array = Console.ReadLine()!;
 string[] n_array = array.Split(' ');
